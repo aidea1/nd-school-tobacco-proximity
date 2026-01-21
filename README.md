@@ -58,4 +58,6 @@ This analysis characterizes environmental availability and spatial exposure, not
 
 This project applies spatial epidemiology methods to quantify proximity-based exposure to smoking and vaping retailers around public schools across North Dakota. By anchoring exposure metrics at the school level and using standardized distance thresholds, the analysis generates policy-relevant indicators that are directly actionable for tobacco control and youth prevention strategies in both urban and rural contexts.
 
+## **Access dashboard at: https://aidea1.github.io/nd-school-tobacco-proximity/**
+
 **Citation:** Geospatial analysis of smoking and vaping retailer proximity to public schools across North Dakota.
